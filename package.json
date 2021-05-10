@@ -1,7 +1,7 @@
 {
-  "name": "node_js_celke",
+  "name": "projeto_bloco",
   "version": "1.0.0",
-  "description": "cursonode",
+  "description": "at",
   "main": "app.js",
   "dependencies": {
     "express": "^4.16.4",
@@ -11,6 +11,6 @@
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
-  "author": "Cesar Szpak",
+  "author": "Bruno Feijó",
   "license": "ISC"
 }
